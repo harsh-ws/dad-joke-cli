@@ -6,3 +6,9 @@ Open the terminal window and run: go get https://github.com/harsh-ws/dad-joke-cl
 ## How to use:<br>
 * To get a random dadjoke in the terminal window: dadjoke random<br>
 * To get a dadjoke containing a specific term: dadjoke random --keyword=world<br>
+
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
